@@ -1,2 +1,2 @@
 # aws-python
-Repository for AWS python automation
+Repository for AWS Automation using python 
